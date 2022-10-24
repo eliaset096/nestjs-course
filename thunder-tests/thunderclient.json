@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "33665e64-c49a-4840-8ec9-4e375e3c2040",
+    "colId": "c8977fd5-8643-42c0-a135-d034c61497d6",
+    "containerId": "",
+    "name": "Get all cars",
+    "url": "{{HOST}}/cars",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2022-10-23T21:13:10.996Z",
+    "modified": "2022-10-23T21:16:02.505Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
